@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I'm currently working on TON analytics platform backend, using ⚡️ FastAPI, 🍃 MongoDB, 🟥 Redis.
+
 I'm getting involved with algorythms 📊 and data sturctures, just started my journey with
-LeetCode and working with some advanced books. 💯 My score below
+LeetCode 💯 and working with some advanced books 📚.
+
 ![LeetCode](https://github.com/close2code-palm/close2code-palm/blob/main/leet_stats.png?raw=true)
 
 🤝 Making simple telegram bots for cash. ✅
